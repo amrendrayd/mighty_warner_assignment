@@ -32,8 +32,8 @@ scripts/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/doc-rag-backend.git
-cd doc-rag-backend
+git clone https://github.com/amrendrayd/mighty_warner_assignment
+cd mighty_warner_assignment
 ```
 
 ### 2. Install dependencies
